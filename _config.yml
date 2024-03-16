@@ -20,7 +20,7 @@ github_username: "dylan-dog-nightmare"
 #########################################################################################
 
 theme: jekyll-theme-cayman
-remote-theme: chirpy
+remote-theme: jekyll-theme-chirpy
 
 #rss: rss
 
