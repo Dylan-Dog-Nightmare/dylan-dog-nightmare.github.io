@@ -18,7 +18,7 @@ github_username: "dylan-dog-nightmare"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: "saigon"
+remote_theme: "chirpy"
 
 #rss: rss
 
