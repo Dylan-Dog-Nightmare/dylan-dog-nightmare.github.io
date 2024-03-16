@@ -2,4 +2,4 @@
 
 **- Battler Ushiromiya, Umineko: When They Cry**
 
-A blog mainly about (quasi-)interactive entertainment, such as mystery novels and videogames, as well as translation and languages. Frax314 on Discord, you can contact me for anything.
+A blog mainly about (quasi-)interactive entertainment, such as mystery novels and videogames, as well as translation and languages. Frax314 on Discord, you can contact me for anything. 
