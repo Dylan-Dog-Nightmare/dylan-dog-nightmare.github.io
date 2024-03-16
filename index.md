@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+🇮🇹 Un blog dedicato principalmente all'intrattenimento (quasi-)interattivo, come i romanzi di mistero e i videogiochi, oltre che alla traduzione e alle lingue.
+🇬🇧 A blog mainly about (quasi-)interactive entertainment, such as mystery novels and videogames, as well as translation and languages.
+🇪🇸 Un blog principalmente dedicado al entretenimiento (cuasi) interactivo, tal como las novelas de misterio y los videojuegos, así como la traducción y los idiomas.
+🇩🇪 Ein Blog, der ist meist über (quasi-)interaktive Unterhaltung, wie zum Beispiel Krimi und Videospiele, sowie Übersetzung und die Sprachen.
