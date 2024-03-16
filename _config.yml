@@ -19,7 +19,8 @@ github_username: "dylan-dog-nightmare"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 
-theme: "cayman"
+theme: jekyll-theme-cayman
+remote-theme: chirpy
 
 #rss: rss
 
